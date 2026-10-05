@@ -1,2 +1,3 @@
 - try to explore different definitions of single-step
 - try to define new ways of starting solution
+- check if fitness cotains penalty in the last stage
