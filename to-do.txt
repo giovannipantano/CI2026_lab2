@@ -1,0 +1,2 @@
+- try to explore different definitions of single-step
+- try to define new ways of starting solution
